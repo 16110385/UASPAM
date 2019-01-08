@@ -1,5 +1,5 @@
 # UASPAM
-Pemrograman Aplikasi Mobile
+Aplikasi Data Mahasiswa
 # Final_Project_PAM
 Tugas Final Project PAM
 Nama Kelompok<br>
